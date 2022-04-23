@@ -8,6 +8,9 @@
 - [Tutorials: Create a web API with controllers ](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio-code)
 - [Persist and retrieve relational data with Entity Framework Core](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/)
 
+## Tools used
+- `httprepl`
+
 ## Enitity Framwork Core
 - Command to generate a migration for creating the database tables and apply the migration:  
 `dotnet ef migrations add InitialCreate --context PizzaContext`
